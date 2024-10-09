@@ -12,7 +12,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZXfzfkyfJUDCdQGF3F8FdeQT18lO7HJl/view?usp=sharing)
 
-- ⚡ Fun fact **I'm highly humorous🤣**
 <div align="center">
 
 </div>
