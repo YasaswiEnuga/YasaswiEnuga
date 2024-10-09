@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasaswi E</h1>
 
-<h3 align="center">A passionate in Machine Learning, Language Modelling ,Full-Stack Developer and also data scientist</h3>
+<h3 align="center">A passionate in Machine Learning, Language Modelling ,Full-Stack Developer</h3>
 
 
 
