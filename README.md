@@ -16,7 +16,6 @@
 
 - ⚡ Fun fact **I'm highly humorous🤣**
 <div align="center">
-## 💡 A Quote:
 
 </div>
 <h3 align="left">Connect with me:</h3>
