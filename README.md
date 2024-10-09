@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YasaswiEnuga&label=Profile%20views&color=0e75b6&style=flat" alt="shashi kiran" /> </p>
 
-- 👨‍💻 Portfolio - [click here](https://portfolio-shashi36kiran.vercel.app)
-
 - 💬 Ask me about **Java, Data Structures, DBMS, Machine Learning, Deep Learning, Image Processing, Natural Language Processing, Python, Pytorch, Tensorflow, Keras, SQl.**
 
 - 📫 How to reach me **yasaswienuga@gmail.com**
